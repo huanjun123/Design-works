@@ -3,6 +3,8 @@
 个人作品集
 ![images](https://github.com/huanjun123/Design-works/blob/master/3d%E5%9B%BE%E7%89%87.jpg)
 
+![images](https://github.com/huanjun123/Design-works/blob/master/3d%E5%9B%BE%E7%89%87.jpg)
+
 ![images](https://github.com/huanjun123/Design-works/blob/master/banner.jpg)
 
 ![images](https://github.com/huanjun123/Design-works/blob/master/%E4%BA%AC%E4%B8%9C%E9%A6%96%E9%A1%B5.jpg)
